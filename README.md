@@ -76,6 +76,7 @@ I played footbal in the past and I like watching it.
 ##### Animals
 
 I love animals. I curretnly have 2 cats. They're awesome :)
+
 <img src="images/kreso-ogon.jpeg" width="200"><img src="images/ogon.jpeg" width="200"><img src="images/ksero.jpeg" width="200"><img src="images/ogon-me.png" width="200">
 
 ##### Reading
