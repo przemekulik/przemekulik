@@ -87,7 +87,8 @@ I like reading, a lot. Both fiction and non-fiction (less). I'm an urban fantasy
 
 I like doing things in the kitchen. I cook daily meals for myself and familly and I try new things I have seen travelling.
 
-[[images/pavlova.jpeg|width=100px]]![Tarte](images/tarta.jpeg)
+<img src="images/pavlova.jpeg" width="200">
+<img src="images/tarta.jpeg" width="200">
 
 ##### Watching / listening
 
