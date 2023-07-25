@@ -77,7 +77,9 @@ I played footbal in the past and I like watching it.
 
 I love animals. I curretnly have 2 cats. They're awesome :)
 
-[picture will come soon]
+<img src="images/ogon.jpeg" width="200">
+<img src="images/ksero.jpeg" width="200">
+<img src="images/ogon-me.png" width="200">
 
 ##### Reading
 
@@ -87,7 +89,7 @@ I like reading, a lot. Both fiction and non-fiction (less). I'm an urban fantasy
 
 I like doing things in the kitchen. I cook daily meals for myself and familly and I try new things I have seen travelling.
 
-<img src="images/pavlova.jpeg" width="200"><img src="images/tarta.jpeg" width="200">
+<img src="images/pavlova.jpeg" width="200"><img src="images/tarta.jpeg" width="200"><img src="images/idli-sambar.png" width="200"><img src="images/tort.jpg" width="200">
 
 ##### Watching / listening
 
