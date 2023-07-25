@@ -8,7 +8,7 @@ This page tries to be the 'user manual' for Przemek (that's me) for those who wa
 
 I've been a product manager for the bigger part of my professional career. Before that I worked for a couple companies in insurance industry. If you're interested in details, LinkedIn has it.
 
-I graduated from Warsaw University of Technology, where I received my M.S. in production engineering. In information systems to be more specific.
+I graduated from Warsaw University of Technology, where I received my M.S. in production engineering. In information systems, to be more specific.
 
 #### Name pronunciation hint 😄
 
@@ -22,14 +22,21 @@ I like to think I am an open book, transparent and direct. I strie to live by th
 2. English is my 3rd language. While I think it's fairly good, my choice of words and grammar may be off. If something in what I say/write does not seem right to you, feel free to ask and correct.
 3. My tone of voice may seem harsh even if I don't mean it. I don't know if it's the Polish accent or something alse. It's OK to remind me of that and say "that sounded harsh, I would appreciate a more calmer tone".
 4. I may seem as difficult for work with. I hold myself to high standards. Sometimes it may seem like I'm 'making it hard' for no apparent reason. The fault is mine. Feel free to stop me and ask clarifying 'why' questions.
+5. I sometime fail or forget to recognize good effort or performance. I have seet it, believe me. It's OK to ask 'how do you think I did there'.
+
+I'm sure I have more flaws that affect my professional life. Please contact me to have it added or if you prefer to do it anonymously, ask someone you and I both know, who woul dbe willing to submit it.
 
 #### Strengths
 
-TODO:
+Still looking. I'm not trying to be coy here. Let me try with something basic and simple:
+
+1. Ony of my managers used 'pitbull attidute' in my yearly apprisal once. He meant it in a positive way. I'll take it.
+2. If you're 'one of my own' I will fight for you even if you mess up. Then, we'll talk.
+3. I can be convinced. I have strong opinions but you can change them. Don't give up too early.
 
 #### Pointers from others
 
-TODO:
+They'll come as they come :)
 
 #### Communication
 
