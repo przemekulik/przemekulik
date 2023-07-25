@@ -64,22 +64,20 @@ As one of my flaws I documented above says, there's a chance I have misrepresent
 
 Just becase my calendar shows an empty slot, it doesn't mean it's available. I'm not always blocking time for personal / solo acttivities. If I decline your request I give a reason most of the time. Check back with me about possible time slots.
 
-#### 👍 Ny interests
+#### 👍 My interests
 
 ##### Sports
 
 I do a lot and and I watch some. I practice Brazlilian Jiu Jitsu (I sometimes compete). I run. I lift weights. In this order. I do somethign alsomost every day.
 I played footbal in the past and I like watching it.
 
-[picture will come soon]
+<img src="images/bjj-1.png" height="200"><img src="images/bjj-2.jpeg" height="200"><img src="images/bjj-3.jpeg" height="200">
 
 ##### Animals
 
 I love animals. I curretnly have 2 cats. They're awesome :)
 
-<img src="images/ogon.jpeg" width="200">
-<img src="images/ksero.jpeg" width="200">
-<img src="images/ogon-me.png" width="200">
+<img src="images/ogon.jpeg" width="200"><img src="images/ksero.jpeg" width="200"><img src="images/ogon-me.png" width="200">
 
 ##### Reading
 
