@@ -50,7 +50,7 @@ I don't like writing long messages (emails, chats etc.). I understand there are 
 I do have accounts on Facebook, Instagram, Twitter and LinkedIn. I use Facebook and Instagram for personal stuff only and I check them only during weekends.
 I user Twitter and LinkedIn for professional stuff and I don't use them during weekends.
 
-#### Don't assume anything
+##### Don't assume anything
 
 TL;DR: Check with me first.
 As one of my flaws I documented above says, there's a chance I have misrepresented my own thoughts. Don't try to second guess me - ask for clarification. There's a chance that:
@@ -60,6 +60,35 @@ As one of my flaws I documented above says, there's a chance I have misrepresent
 3. It's been misrepresented (possibly by myself)
 4. "Now that you mention it, it doesn't seem right" might happen
 
-#### Meeting requests
+##### Meeting requests
 
 Just becase my calendar shows an empty slot, it doesn't mean it's available. I'm not always blocking time for personal / solo acttivities. If I decline your request I give a reason most of the time. Check back with me about possible time slots.
+
+#### 👍 Ny interests
+
+##### Sports
+
+I do a lot and and I watch some. I practice Brazlilian Jiu Jitsu (I sometimes compete). I run. I lift weights. In this order. I do somethign alsomost every day.
+I played footbal in the past and I like watching it.
+
+[picture will come soon]
+
+##### Animals
+
+I love animals. I curretnly have 2 cats. They're awesome :)
+
+[picture will come soon]
+
+##### Reading
+
+I like reading, a lot. Both fiction and non-fiction (less). I'm an urban fantasy fan. I can reccomend some titles
+
+##### Cooking
+
+I like doing things in the kitchen. I cook daily meals for myself and familly and I try new things I have seen travelling.
+
+![Pavlova](images/pavlova.jpeg | width=100)![Tarte](images/tarta.jpeg)
+
+##### Watching / listening
+
+I don't like wasting time, so when I'm in tha car and not taling to somebody, I listen to podcasts. Topics vary but I stay away from politics, news etc.
