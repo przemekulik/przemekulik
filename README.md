@@ -18,9 +18,10 @@ My full first name is actually Przemysław, but nobody ever called me that, not 
 
 I like to think I am an open book, transparent and direct. I strie to live by these values. In the spirit of that I am sharing here some of the flaws I know I have. Listing them here is not an exacuse, I am fully responsible for improving on these things.
 
-1. I look "serious" most of the time. It's my 'resting face'. It's OK to remind me of that or ask what's going on.
-2. English is my 3rd language. While I think it's good, my choice of words may be off. If something in what I say/write does not seem right to you, feel free to ask and correct.
+1. I look 'serious' / 'scary' most of the time. It's my 'resting face'. It's OK to remind me of that or ask what's going on.
+2. English is my 3rd language. While I think it's fairly good, my choice of words and grammar may be off. If something in what I say/write does not seem right to you, feel free to ask and correct.
 3. My tone of voice may seem harsh even if I don't mean it. I don't know if it's the Polish accent or something alse. It's OK to remind me of that and say "that sounded harsh, I would appreciate a more calmer tone".
+4. I may seem as difficult for work with. I hold myself to high standards. Sometimes it may seem like I'm 'making it hard' for no apparent reason. The fault is mine. Feel free to stop me and ask clarifying 'why' questions.
 
 #### Strengths
 
@@ -32,4 +33,25 @@ TODO:
 
 #### Communication
 
-TODO:
+##### Voice vs Text
+
+I don't like writing long messages (emails, chats etc.). I understand there are needed sometimes, but I'd always prefer a short (or long) conversation over a long text.
+
+##### Social media
+
+I do have accounts on Facebook, Instagram, Twitter and LinkedIn. I use Facebook and Instagram for personal stuff only and I check them only during weekends.
+I user Twitter and LinkedIn for professional stuff and I don't use them during weekends.
+
+#### Don't assume anything
+
+TLDR; Check with me first.
+As one of my flaws I documented above says, there's a chance I have misrepresented my own thoughts. Don't try to second guess me - ask for clarification. There's a chance that:
+
+1. I never said 'it'
+2. I dont' remmeber saying it
+3. It's been misrepresented (possibly by myself)
+4. 'Now that you mention it, it doesn't seem right' might happen
+
+#### Meeting requests
+
+Just becase my calendar shows an empty slot, it doesn't mean it's available. I'm not always blocking time for personal / solo acttivities. If I decline your request I give a reason most of the time. Check back with me about possible time slots.
