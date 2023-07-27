@@ -30,10 +30,10 @@ I like to think I am an open book, transparent and direct. I strive to live by t
 
 1. I look "serious" / "scary" most of the time. It's my "resting face". It's OK to remind me of that or ask what's going on.
 2. English is my 3<sup>rd</sup> language. While I think it's fairly good, my choice of words and grammar may be off. If something in what I say/write does not seem right to you, feel free to ask and correct.
-3. My tone of voice may seem harsh even if I don't mean it. I don't know if it's the Polish accent or something else. It's OK to remind me of that and say, "that sounded harsh, I would appreciate a more calmer tone".
+3. My tone of voice may seem harsh even if I don't mean it. I don't know if it's the Polish accent or something else. It's OK to remind me of that and say, "that sounded harsh, I would appreciate a more calmer tone."
 4. I tend to get emotional (angry, sad...). I know how it sounds, but it's not you, it's me. I'm working on it.
 5. I may seem as difficult for work with. I hold myself to high standards. Sometimes it may seem like I'm "making it hard" for no apparent reason. The fault is mine. Feel free to stop me and ask clarifying "why" questions.
-6. I sometimes fail or forget to recognize good effort or performance. I have seen it, believe me. It's OK to ask, "how do you think I did there".
+6. I sometimes fail or forget to recognize good effort or performance. I have seen it, believe me. It's OK to ask, "how do you think I did there."
 7. I'm a master procrastinator. Recovering, though. If you need something from me and don't hear from me, remind me.
 
 I'm sure I have more flaws that affect my professional life. Please contact me to have it added or if you prefer to do it anonymously, ask someone you and I both know, who would be willing to submit it.
