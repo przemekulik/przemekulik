@@ -18,6 +18,10 @@ I graduated from Warsaw University of Technology, where I received my M.S. in pr
 
 ---
 
+The rest taken "private" for now :)
+
+<!--
+
 ### 😄 Name pronunciation hint
 
 My full first name is actually Przemysław, but nobody ever called me that, not even my parents. Use Przemek. The phonetic spelling is p-sh-eh-m-eh-k and there's plenty audio samples online. Don't worry if you can't pronounce it, I won't mind it. I've been getting many emails starting with "Hi, Kulik" ("this Przemek thing can't be his first name, can it?") and it's fine. The best one I've ever got started with "Hi Kilimanjaro" - go figure 😄.
@@ -167,3 +171,5 @@ I don't like wasting time, so when I'm in the car and not talking to somebody, I
 ---
 
 </details>
+
+-->
