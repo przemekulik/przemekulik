@@ -48,7 +48,7 @@ Still looking. I'm not trying to be coy here. Let me try with something basic an
 2. If you're "one of my own" (and if you're reading it you most likely are) I will fight for you even if you mess up. Then, we'll talk.
 3. I can be convinced. I have strong opinions, but you can change them. Don't give up too early.
 
-### 💜 Values, beliefs, style... ###
+### 💜 Values, beliefs, style...
 
 Things, which are neither flaws nor strengths (?). Something I value and try to practice.
 
@@ -59,14 +59,14 @@ Things, which are neither flaws nor strengths (?). Something I value and try to 
 - I assume good will. Period.
 - Undepromise and overdeliver - never opposite. It's not to say to undepromise what you plan for anyway. It's about not overpromising for no reason.
 
-### 😡 What I find hard tolerating ###
+### 😡 What I find hard tolerating
 
 We all have things, which annoy us, right?
 
 - Taking credit for somebody else’s work.
 - Going around me with something that is about me.
 
-### 🐉 Hic sunt dracones ###
+### 🐉 Hic sunt dracones
 
 I like being right. I usually know when I don’t know. If you see me out of my depth, tell me. Save me!
 
