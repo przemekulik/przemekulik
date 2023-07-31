@@ -18,10 +18,6 @@ I graduated from Warsaw University of Technology, where I received my M.S. in pr
 
 ---
 
-The rest taken "private" for now :)
-
-<!--
-
 ### 😄 Name pronunciation hint
 
 My full first name is actually Przemysław, but nobody ever called me that, not even my parents. Use Przemek. The phonetic spelling is p-sh-eh-m-eh-k and there's plenty audio samples online. Don't worry if you can't pronounce it, I won't mind it. I've been getting many emails starting with "Hi, Kulik" ("this Przemek thing can't be his first name, can it?") and it's fine. The best one I've ever got started with "Hi Kilimanjaro" - go figure 😄.
@@ -33,12 +29,10 @@ My full first name is actually Przemysław, but nobody ever called me that, not 
 I like to think I am an open book, transparent and direct. I strive to live by these values. That's why I am sharing here some of the flaws I know I have. Listing them here is not an excuse, I am fully responsible for improving on these things.
 
 1. I look "serious" / "scary" most of the time. It's my "resting face". It's OK to remind me of that or ask what's going on.
-2. English is my 3<sup>rd</sup> language. While I think it's fairly good, my choice of words and grammar may be off. If something in what I say/write does not seem right to you, feel free to ask and correct.
-3. My tone of voice may seem harsh even if I don't mean it. I don't know if it's the Polish accent or something else. It's OK to remind me of that and say, "that sounded harsh, I would appreciate a more calmer tone."
-4. I tend to get emotional (angry, sad...). I know how it sounds, but it's not you, it's me. I'm working on it.
-5. I may seem as difficult for work with. I hold myself to high standards. Sometimes it may seem like I'm "making it hard" for no apparent reason. The fault is mine. Feel free to stop me and ask clarifying "why" questions.
-6. I sometimes fail or forget to recognize good effort or performance. I have seen it, believe me. It's OK to ask, "how do you think I did there."
-7. I'm a master procrastinator. Recovering, though. If you need something from me and don't hear from me, remind me.
+2. My tone of voice may seem harsh even if I don't mean it. I don't know if it's the Polish accent or something else. It's OK to remind me of that and say, "that sounded harsh, I would appreciate a calmer tone."
+3. I tend to get emotional (angry, sad...). I know how it sounds, but it's not you, it's me. I'm working on it.
+4. I may seem as difficult to work with. I hold myself to high standards. Sometimes it may seem like I'm "making it hard" for no apparent reason. The fault is mine. Feel free to stop me and ask clarifying "why" questions.
+5. I sometimes fail or forget to recognize good effort or performance. I have seen it, believe me. It's OK to ask, "how do you think I did there."
 
 I'm sure I have more flaws that affect my professional life. Please contact me to have it added or if you prefer to do it anonymously, ask someone you and I both know, who would be willing to submit it.
 
@@ -52,27 +46,24 @@ Still looking. I'm not trying to be coy here. Let me try with something basic an
 2. If you're "one of my own" (and if you're reading it you most likely are) I will fight for you even if you mess up. Then, we'll talk.
 3. I can be convinced. I have strong opinions, but you can change them. Don't give up too early.
 
-### 💜 Values, beliefs, style...
+### 💜 Values, beliefs, style
 
 Things, which are neither flaws nor strengths (?). Something I value and try to practice.
 
-- Enthusiasm and passion - we're here for a reason, let's show we mean it
+- Enthusiasm and passion - we're here for a reason, let's show we mean it.
 - Hard work ethic - hard work beats talent and practice makes perfect
+- If you feel like quitting, remember why you started. 
 - Humility - as we say in jiu jitsu, the belt only covers two inches of your, well.. back. You have to cover the rest. Titles, as belts, only go so far...
 - Work/life balance - we're here for a reason, but there’s life after work. Live it now. Now will never come again.
 - I assume good will. Period.
-- Undepromise and overdeliver - never opposite. It's not to say to undepromise what you plan for anyway. It's about not overpromising for no reason.
+- Underpromise and overdeliver - never opposite. It's not to say to undepromise what you plan for anyway. It's about not overpromising for no reason.
 
-### 😡 What I find hard tolerating
+### 🐉 Hic sunt dracones
 
 We all have things, which annoy us, right?
 
 - Taking credit for somebody else’s work.
 - Going around me with something that is about me.
-
-### 🐉 Hic sunt dracones
-
-I like being right. I usually know when I don’t know. If you see me out of my depth, tell me. Save me!
 
 ---
 
@@ -82,7 +73,7 @@ This is what others said when I asked them for input to this "user guide". Their
 
 <details>
 
-<summary>...</summary>
+<summary>... click to expand ...</summary>
 
 - Be direct and cut to the chase if you want to make an approach
 - Before the approach, do your home work, ensure it is something that means business to Przemek
@@ -99,6 +90,11 @@ This is what others said when I asked them for input to this "user guide". Their
 - He has two cats, one named Xerox and another I never see so have no idea what its name is. To be frank I call most cats “Cat” anyway.
 - Put thought into your meetings with Przemek, have an agenda and go through it. Even if it’s in your head. He will appreciate that.
 - If you treat Przemek with respect, it will be returned.
+- He doesn't small talk much, and is usually very matter of fact during business hours. If you travel together, then you will see that he's quite conversational and has a great sense of humor outside of business hours
+- Don't be afraid if he's giving a someone outside his team a hard time in a meeting. He is passionate about his products and team, and will make sure to do right for them. But also know that he's very understanding of his team members and supports them no matter what.
+- Always has time for you if you need his help no matter how busy his schedule is. But, don't abuse it, he appreciates self-starters, go-getters.
+- He is not "full of surprises". He wouldn't try to catch you off guard, throw you under the bus in front of others, or snap at you for no reason
+- Don't expect him to hold your hand to do your work. You do your work and make your decisions and take them forward. This means that he doesn't micromanage and he also lets you take all the credit for your good work. But, asking for guidance is always welcome
 
 </details>
 
@@ -139,20 +135,30 @@ Do give it. I welcome it, even if it's not evident. The format is up to you. Tal
 
 <details>
 
-<summary>...</summary>
+<summary>... click to expand ...</summary>
 
 #### ***Sports***
 
 I do a lot and and I watch some. I practice Brazlilian Jiu Jitsu (I sometimes compete). I run. I lift weights. In this order. I do something almost every day.
 I played football in the past and I like watching it.
 
-<img src="images/bjj-1.png" height="200"><img src="images/bjj-2.jpeg" height="200"><img src="images/bjj-3.jpeg" height="200">
+<img src="images/bjj-4.jpeg" height="200">
+<img src="images/bjj-6.jpeg" height="200">
+<img src="images/bjj-5.jpeg" height="200">
+<img src="images/bjj-3.jpeg" height="200">
+<img src="images/bjj-1.png" height="200">
+<img src="images/bjj-2.jpeg" height="200">
 
 #### ***Animals***
 
 I love animals. I currently have 2 cats. They're awesome :)
 
-<img src="images/kreso-ogon.jpeg" width="200"><img src="images/ogon.jpeg" width="200"><img src="images/ksero.jpeg" width="200"><img src="images/ogon-me.png" width="200">
+<img src="images/rip.png" height="200">
+<img src="images/kreso-ogon.jpeg" width="200">
+<img src="images/ogon.jpeg" width="200">
+<img src="images/ksero.jpeg" width="200">
+<img src="images/ogon-me.png" height="200">
+<img src="images/cats-sleep.jpeg" height="200">
 
 #### ***Reading***
 
@@ -162,7 +168,16 @@ I like reading, a lot. Both fiction and non-fiction (less). I'm an urban fantasy
 
 I like doing things in the kitchen. I cook daily meals for myself and familly and I try new things I have seen travelling.
 
-<img src="images/pavlova.jpeg" width="200"><img src="images/tarta.jpeg" width="200"><img src="images/idli-sambar.png" width="200"><img src="images/tort.jpg" width="200">
+<img src="images/pavlova.jpeg" width="200">
+<img src="images/tarta.jpeg" width="200">
+<img src="images/idli-sambar.png" width="200">
+<img src="images/tort.jpg" width="200">
+<img src="images/kopytka.jpeg" width="200">
+<img src="images/paczki.jpeg" width="200">
+<img src="images/paneer.jpeg" width="200">
+<img src="images/pasztet.jpeg" width="200">
+<img src="images/pierogi.jpeg" width="200">
+<img src="images/sambar.jpeg" width="200">
 
 #### ***Watching / listening***
 
@@ -171,5 +186,3 @@ I don't like wasting time, so when I'm in the car and not talking to somebody, I
 ---
 
 </details>
-
--->
