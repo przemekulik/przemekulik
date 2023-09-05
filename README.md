@@ -46,6 +46,8 @@ Still looking. I'm not trying to be coy here. Let me try with something basic an
 2. If you're "one of my own" (and if you're reading it you most likely are) I will fight for you even if you mess up. Then, we'll talk.
 3. I can be convinced. I have strong opinions, but you can change them. Don't give up too early.
 
+---
+
 ### 💜 Values, beliefs, style
 
 Things, which are neither flaws nor strengths (?). Something I value and try to practice.
@@ -57,6 +59,8 @@ Things, which are neither flaws nor strengths (?). Something I value and try to 
 - Work/life balance - we're here for a reason, but there’s life after work. Live it now. Now will never come again.
 - I assume good will. Period.
 - Underpromise and overdeliver - never opposite. It's not to say to undepromise what you plan for anyway. It's about not overpromising for no reason.
+
+---
 
 ### 🐉 Hic sunt dracones
 
