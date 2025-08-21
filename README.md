@@ -99,6 +99,7 @@ This is what others said when I asked them for input to this "user guide". Their
 - Always has time for you if you need his help no matter how busy his schedule is. But, don't abuse it, he appreciates self-starters, go-getters.
 - He is not "full of surprises". He wouldn't try to catch you off guard, throw you under the bus in front of others, or snap at you for no reason
 - Don't expect him to hold your hand to do your work. You do your work and make your decisions and take them forward. This means that he doesn't micromanage and he also lets you take all the credit for your good work. But, asking for guidance is always welcome
+- Przemek leads through collaborative decision-making with empowered team members rather than top-down directives. An organizational culture that relies heavily on top-down decisions without adequate collaboration would conflict with both his leadership approach and professional preferences.
 
 </details>
 
